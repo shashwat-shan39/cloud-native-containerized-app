@@ -6,7 +6,7 @@ acr_task_name             = "cmtrf5n7jzgbmod8cr"
 acr_sku                   = "Basic"
 platform_os               = "Linux"
 dockerfile_path           = "Dockerfile"
-docker_build_context_path = ""
+docker_build_context_path = "https://github.com/shashwat-shan39/cloud-native-containerized-app#main:task08/application"
 docker_image_name         = "shashwat"
 
 aci_os_type          = "Linux"
